@@ -41,6 +41,8 @@ It's not possible for a lot of plugins to update to 1.18. Some can, but they are
 
 ❌- IR restore
 
+❌- Geyser (crucial plugin for crossplay)
+
 ❌- Coreprotect / Prism
 
 ❌- Watson
