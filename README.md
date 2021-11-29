@@ -56,4 +56,5 @@ It's not possible for a lot of plugins to update to 1.18. Some can, but they are
 My pc is dogshit and MCA selector (the plugin we're using to wipe old terrain) refuses to work with the current world. This probably has something to do with the singular world file being split into 3 which are combined using the datapack (which does not work on 1.18) so it's bugged for no reason
 https://cdn.upload.systems/uploads/GIN8Us9U.png
 
-# My PC hates MCAselector
+# Datapacks not working properly
+to be expected but we will have to manually update these by ourselves - opal
