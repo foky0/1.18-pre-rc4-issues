@@ -10,19 +10,36 @@ It's not possible for a lot of plugins to update to 1.18. Some can, but they are
 ❌ - Not updated, no eta
 
 ✔ - Mojang (releases nov 30)
+
 ✔ - Our server host
+
 ✔ - Our custom plugins
+
 ✔ - Paper (will swap to a newer jar as they come out, but paper runs at the bare minimum
+
 ⚔ - LuckPerms
+
 ⚔ - DSRV
+
 ⚔ - Dynmap
+
 ⚔ - TAB
+
 ⚔ - RS
+
 ⁉ - PAPI
+
 ⁉ - Worldedit
+
 ⁉ - SimppleVoiceChat
+
 ❌- IR restore
+
 ❌- Coreprotect / Prism
+
 ❌- Watson
+
 ❌- Vulcan
+
 ❌- Deluxemenus
+
