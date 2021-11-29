@@ -5,9 +5,15 @@ Explanation of why the server may take longer than expected to update
 It's not possible for a lot of plugins to update to 1.18. Some can, but they are not open source and we will have to wait on each individual developer for each respective plugin
 
 ✔ - Updated to 1.18
+
 ⁉ - Not updated but can be updated
+
 ⚔ - Crucial plugins that the server cannot function without
+
 ❌ - Not updated, no eta
+
+
+
 
 ✔ - Mojang (releases nov 30)
 
